@@ -1,0 +1,169 @@
+
+
+#logo {
+    width: 590px;
+    height: 90px;
+    border-radius: 34%;
+    margin-left: 10px;
+    position: relative;
+    top: 10px;
+}
+
+.lepota {
+    width: 500px;
+    height: 250px;
+    margin-left: 100px;
+    margin-bottom: 70px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+.contenders {
+    width:250px;
+    height: 200px;
+    border-radius: 10%;
+    border: 4px solid #2485e0;
+    
+}
+
+
+
+.top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+    ;
+}
+
+ul {
+    list-style-type: none;
+    
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    margin-right: 70px;
+    margin-top: 30px;
+    font-size: 18px;
+}
+
+#uvod {
+    max-width: 500px;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+.prvi-odeljak {
+    display: flex;
+    flex-direction: row;
+    background-color: #5ec1cc;
+   
+}
+
+h2 {
+    text-align: center;
+    margin-top:0;
+    
+}
+
+.slike {
+    display:flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    gap:10px;
+    margin: 50px 20px 0px 20px;
+    
+    
+}
+
+.quotes{
+    font-size: 30px;
+    text-align: center;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+    background-image: url("img/kristopher-roller-zepnJQycr4U-unsplash.jpg");
+    background-size: 1500px 400px;
+    background-repeat: no-repeat;
+    height: 400px;
+    color: #fbfbfa;
+    
+} 
+
+
+
+#register {
+    margin-top: 50px;
+padding: 8px;
+border-radius: 20%;
+background-color: #cbdabf;
+
+}
+
+.sign-up {
+   width: 1000px;
+    background-color:#3195cf;
+    margin: 0 auto;
+    border-radius: 30%;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.sign-up p{
+    max-width: 400px;
+}
+
+footer p {
+text-align: center;
+}
+
+header {
+    background-color: #5ec1cc;
+    
+}
+
+h1,h2{
+    font-family: Montserrat;
+}
+
+p,li{
+    font-family: 'Enriqueta', serif;;
+}
+
+#sign {
+    padding: 10px;
+    border-radius: 30%;
+}
+
+#winners {
+    background-color: #d1dada;
+    margin-bottom: 0;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+footer {
+    background-color: #5ec1cc;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+#prijava {
+    height: 250px;
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+button {
+    background-color: #cbdabf;
+}
